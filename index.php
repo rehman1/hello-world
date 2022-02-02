@@ -18,6 +18,9 @@
     <p>This line is here to show how merging works.</p>
     <p>A new line in our index within master branch!</p>
     <div><p>Hello with span <span>spn herer..!</span></p></div>
+    <div>
+        <a href="https://www.google.com.pk/" target="_blank">Google</a>
+    </div>
 
 </body>
 </html>
